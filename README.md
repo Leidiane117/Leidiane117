@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leidiane117&label=Profile%20views&color=0e75b6&style=flat" alt="leidiane117" /> </p>
 
-<img aling="rigth" src="https://media4.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif?cid=ecf05e47ixhp1cmnmkhu272fb10ou7skn6qoz1j0xzl4a3b7&rid=giphy.gif" width="300" height="300"/>
+<img align="rigth" src="https://media4.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif?cid=ecf05e47ixhp1cmnmkhu272fb10ou7skn6qoz1j0xzl4a3b7&rid=giphy.gif" width="300" height="300"/>
 
 - 🌱 Atualmente estou aprendendo **Automação de Testes para Web**
 
