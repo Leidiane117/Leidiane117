@@ -5,8 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leidiane117&label=Profile%20views&color=0e75b6&style=flat" alt="leidiane117" /> </p>
 
-
-- 🌱 Atualmente estou aprendendo **Automação de Testes para Web**        <img src="https://media4.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif?cid=ecf05e47ixhp1cmnmkhu272fb10ou7skn6qoz1j0xzl4a3b7&rid=giphy.gif" width="150" height="150" />
+- 🌱 Atualmente estou aprendendo **Automação de Testes para Web**                              <img src="https://media4.giphy.com/media/4GaHBQh3f4jBEpbQvP        /giphy.gif?cid=ecf05e47ixhp1cmnmkhu272fb10ou7skn6qoz1j0xzl4a3b7&rid=giphy.gif" width="300" height="200" />
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Leidiane117](https://github.com/Leidiane117)
 
