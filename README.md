@@ -5,10 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leidiane117&label=Profile%20views&color=0e75b6&style=flat" alt="leidiane117" /> </p>
 
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="40" height="40" />
 
-![Alt Text](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
-
-- 🌱 Atualmente estou aprendendo **Automação de Testes para Web**
+- 🌱 Atualmente estou aprendendo **Automação de Testes para Web** 
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Leidiane117](https://github.com/Leidiane117)
 
