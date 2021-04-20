@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Olá, seja bem vindo(a), sou a Leidiane Soares</h1>
-<h3 align="center">Estudante e Apaixonada pela área de programação</h3>
+<h3 align="center">Formada em Administração de empresas e estudante na área de Tecnologia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leidiane117&label=Profile%20views&color=0e75b6&style=flat" alt="leidiane117" /> </p>
 
