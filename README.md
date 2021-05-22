@@ -7,7 +7,7 @@
 
 <img align="right" src="https://media4.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif?cid=ecf05e47ixhp1cmnmkhu272fb10ou7skn6qoz1j0xzl4a3b7&rid=giphy.gif" width="300" height="300"/>
 
-- 🌱 Atualmente estou aprendendo **Automação de Testes para Web**
+- 🌱 Atualmente estou aprendendo **Teste de Integração**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Leidiane117](https://github.com/Leidiane117)
 
