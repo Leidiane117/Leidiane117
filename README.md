@@ -13,8 +13,6 @@
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-**Aplicações e Dados**
-
   
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -38,29 +36,6 @@ Linguagens & Tecnologias: `Java`, `Selenium WebDriver`,`Maven`
 <br/>
 <br/>
 
-
-**Teste de API**
-
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-
-
-**Teste Web**
-  
-  
-
-**DevOps**
-
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  
-
-**Editores e IDES**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-   
-  
-
-<br/>
 
 <a href="https://github.com/Leidiane117">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leidiane117&theme=dark&show_icons=true" />
