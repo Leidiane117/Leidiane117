@@ -49,7 +49,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leidiane-soares-22076646/)](https://www.linkedin.com/in/leidiane-soares-22076646/)
+[![Linkedin: Leidiane](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leidiane-soares-22076646/)](https://www.linkedin.com/in/leidiane-soares-22076646/)
 [![GitHub Leidiane]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/Leidiane117)
 
 
