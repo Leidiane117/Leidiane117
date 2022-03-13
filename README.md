@@ -7,7 +7,7 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na http://fateczonasul.edu.br/ <a href="">FATEC</a>.
+- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="http://fateczonasul.edu.br/">FATEC</a>.
 - 💼 &nbsp; Trabalhando como **Analista de Autoação de Teste de Software** na <a href="https://www.primecontrol.com.br/">Prime Control</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Python e Teste de API**.
 
