@@ -28,7 +28,7 @@
   
   ### Experiências
 
-[<img align="left" height="100px" width="400px" alt="Warpnet" src="https://www.primecontrol.com.br/wp-content/uploads/2021/01/novalogo-primecontrol-website.png"/>](https://www.primecontrol.com.br/)
+[<img align="left" height="100px" width="400px" alt="Warpnet" src="https://www.primecontrol.com.br/wp-content/uploads/2019/07/Logo-Prime-Control.png"/>](https://www.primecontrol.com.br/)
 
 
 **Analista de Automação de Teste de Software** \
