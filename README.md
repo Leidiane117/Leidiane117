@@ -17,13 +17,7 @@
 
   
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MySQL](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
   ![DotNET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   
   ### Experiências
@@ -76,9 +70,8 @@ Linguagens & Tecnologias: `Python`, `Robot Framework`, `Selenium Library`, `Git 
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Leidiane](https://img.shields.io/badge/-Leidiane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leidiane-soares-22076646/)](https://www.linkedin.com/in/leidiane-soares-22076646/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+
 [![Hotmail: Leidiane](https://img.shields.io/badge/leidiane5499@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:leidiane5499@hotmail.com)](mailto:leidiane5499@hotmail.com)
-[![GitHub Leidiane]( https://img.shields.io/github/followers/Leidiane117-0078D4??label=follow&style=social)](https://github.com/Leidiane117)
+
 
 
