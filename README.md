@@ -26,7 +26,7 @@
 
 **Analista de Automação de Teste de Software Jr.** \
 [**Prime Control**](https://www.primecontrol.com.br/) • Período Atual \
-Linguagens & Tecnologias: `Python`, `Robot Framework`, `Selenium Library`, `Git Lab`
+Linguagens & Tecnologias: `Python`, `Robot Framework`, `Selenium Library`
 <br/>
 <br/>
 
@@ -34,7 +34,7 @@ Linguagens & Tecnologias: `Python`, `Robot Framework`, `Selenium Library`, `Git 
 
 **Analista de Teste de Software Jr.** \
 [**GFT**](https://www.gft.com/br/pt) • Maio/2021 \
-Linguagens & Tecnologias: `Java`, `Selenium WebDriver`
+Linguagens & Tecnologias: `Java`, `Selenium WebDriver`,`Maven`
 <br/>
 <br/>
 
