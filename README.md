@@ -42,6 +42,7 @@ Linguagens & Tecnologias: `Python`, `Robot Framework`, `Selenium Library`, `Git 
 [**GFT**](https://www.gft.com/br/pt) • Maio/2021 \
 Linguagens & Tecnologias: `Python`, `Robot Framework`, `Selenium Library`, `Git Lab`
 <br/>
+<br/>
 
 
 **Teste de API**
