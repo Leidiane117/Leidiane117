@@ -27,7 +27,6 @@
   ![DotNET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   
   ### Minhas Experiências
-In the overview below you will find my most recent work experience:
 
 [<img align="left" height="100px" width="400px" alt="Warpnet" src="https://www.primecontrol.com.br/wp-content/uploads/2021/01/novalogo-primecontrol-website.png"/>](https://www.primecontrol.com.br/)
 
@@ -35,10 +34,6 @@ In the overview below you will find my most recent work experience:
 **Analista de Automação de Teste de Software** \
 [**Prime Control**](https://www.primecontrol.com.br/) • Full-time \
 Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Featured Projects: [Rocket](https:https://www.primecontrol.com.br//), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://scontent-gru2-2.xx.fbcdn.net/v/t1.6435-9/117157879_723271164886027_6832852747032950145_n.png?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=zyp-1Ru5Gd0AX8VTUQ0&_nc_ht=scontent-gru2-2.xx&oh=80c3d0fb8b767a2ac016cf703fd0bd3f&oe=61509D88"/>](https://rocketseat.com.br/)
 
 
 **Utilidades**
