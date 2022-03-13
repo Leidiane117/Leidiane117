@@ -34,7 +34,7 @@ Linguagens & Tecnologias: `Python`, `Robot Framework`, `Selenium Library`, `Git 
 
 **Analista de Teste de Software Jr.** \
 [**GFT**](https://www.gft.com/br/pt) • Maio/2021 \
-Linguagens & Tecnologias: `Python`, `Robot Framework`, `Selenium Library`, `Git Lab`
+Linguagens & Tecnologias: `Java`, `Selenium WebDriver`
 <br/>
 <br/>
 
