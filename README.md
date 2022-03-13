@@ -30,17 +30,15 @@
 
 [<img align="left" height="100px" width="300px" alt="Warpnet" src="https://www.primecontrol.com.br/wp-content/uploads/2019/07/Logo-Prime-Control.png"/>](https://www.primecontrol.com.br/)
 
-
-**Analista de Automação de Teste de Software** \
+**Analista de Automação de Teste de Software Jr.** \
 [**Prime Control**](https://www.primecontrol.com.br/) • Período Atual \
 Linguagens & Tecnologias: `Python`, `Robot Framework`, `Selenium Library`, `Git Lab`
 <br/>
-
+<br/>
 
 [<img align="left" height="100px" width="100px" alt="Warpnet" src="https://blog.gft.com/br/wp-content/themes/gft-blog-2021-theme/assets/img/gft/GFT-Logo-Website.svg"/>](https://www.gft.com/br/pt)
 
-
-**Analista de Teste de Software** \
+**Analista de Teste de Software Jr.** \
 [**GFT**](https://www.gft.com/br/pt) • Maio/2021 \
 Linguagens & Tecnologias: `Python`, `Robot Framework`, `Selenium Library`, `Git Lab`
 <br/>
