@@ -33,8 +33,7 @@
 
 **Analista de Automação de Teste de Software** \
 [**Prime Control**](https://www.primecontrol.com.br/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Robot Framework`, `Selenium Library`, `Git Lab`, \
-
+Linguagens & Tecnologias: `Python`, `Robot Framework`, `Selenium Library`, `Git Lab`
 
 
 
