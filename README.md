@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Leidiane</h1>
+<h1 align="center">Olá pessoal👋, Eu sou a Leidiane</h1>
 
 
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
@@ -7,9 +7,9 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="https://www.primecontrol.com.br/">Prime Control</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na http://fateczonasul.edu.br/ <a href="">FATEC</a>.
+- 💼 &nbsp; Trabalhando como **Analista de Autoação de Teste de Software** na <a href="https://www.primecontrol.com.br/">Prime Control</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Python e Teste de API**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -50,6 +50,6 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Leidiane](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leidiane-soares-22076646/)](https://www.linkedin.com/in/leidiane-soares-22076646/)
-[![GitHub Leidiane]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/Leidiane117)
+[![GitHub Leidiane]( https://img.shields.io/github/followers/LeidianeSoaress?label=follow&style=social)](https://github.com/Leidiane117)
 
 
