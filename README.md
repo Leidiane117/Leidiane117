@@ -70,7 +70,7 @@ Linguagens & Tecnologias: `Java`, `Selenium WebDriver`,`Maven`
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-
+[LinkedIn](https://www.linkedin.com/in/leidiane-soares-22076646/) 
 [![Hotmail: Leidiane](https://img.shields.io/badge/leidiane5499@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:leidiane5499@hotmail.com)](mailto:leidiane5499@hotmail.com)
 
 
