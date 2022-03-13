@@ -50,7 +50,8 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Leidiane](https://img.shields.io/badge/-Leidiane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leidiane-soares-22076646/)](https://www.linkedin.com/in/leidiane-soares-22076646/)
-[![Hotmail: Leidiane]https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:leidiane5499@hotmail.com)](mailto:leidiane5499@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![Hotmail: Leidiane](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:leidiane5499@hotmail.com)](mailto:leidiane5499@hotmail.com)
 [![GitHub Leidiane]( https://img.shields.io/github/followers/Leidiane117-0078D4??label=follow&style=social)](https://github.com/Leidiane117)
 
 
