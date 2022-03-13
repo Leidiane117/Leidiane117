@@ -33,7 +33,10 @@
 
 **Analista de Automação de Teste de Software** \
 [**Prime Control**](https://www.primecontrol.com.br/) • Full-time \
-Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
+Linguagens & Tecnologias: `Python`, `Robot Framework`, `Selenium Library`, `Git Lab`, \
+
+
+
 
 
 **Utilidades**
