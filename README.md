@@ -2,21 +2,26 @@
 <h1 align="center">Olá pessoal👋, Eu sou a Leidiane</h1>
 
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=Leidiane117&color=006bed)
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Explorando novas tecnologias e soluções para Teste de Software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="http://fateczonasul.edu.br/">FATEC</a>.
-- 💼 &nbsp; Trabalhando como **Analista de Automação de Teste de Software** na <a href="https://www.primecontrol.com.br/">Prime Control</a>
+- 💼 &nbsp; Trabalhando como **Analista de Automação de Teste de Software Jr.** na <a href="https://www.primecontrol.com.br/">Prime Control</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Python e Teste de API**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
-
   
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![DotNET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  
+
+<br/>
   
   ### Experiências
 
