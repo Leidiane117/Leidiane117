@@ -29,7 +29,7 @@
 [<img align="left" height="100px" width="300px" alt="Warpnet" src="https://www.primecontrol.com.br/wp-content/uploads/2022/03/Logo_Negativa-sem-tagline-1536x336.png"/>](https://www.primecontrol.com.br/)
 
 **Analista de Automação de Teste de Software Jr.** \
-[**Prime Control**](https://www.primecontrol.com.br/) • Período Atual \
+[**Prime Control**](https://www.primecontrol.com.br/) •Setembro/2021 a  Período Atual \
 Linguagens & Tecnologias: `Python`, `Robot Framework`, `Selenium Library`
 <br/>
 <br/>
@@ -37,7 +37,7 @@ Linguagens & Tecnologias: `Python`, `Robot Framework`, `Selenium Library`
 [<img align="left" height="100px" width="300px" alt="Warpnet" src="https://blog.gft.com/br/wp-content/themes/gft-blog-2021-theme/assets/img/gft/GFT-Logo-Website.svg"/>](https://www.gft.com/br/pt)
 
 **Analista de Teste de Software Jr.** \
-[**GFT**](https://www.gft.com/br/pt) • Maio/2021 \
+[**GFT**](https://www.gft.com/br/pt) • Maio/2021 a Agosto/2021 \
 Linguagens & Tecnologias: `Java`, `Selenium WebDriver`,`Maven`
 <br/>
 <br/>
