@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá pessoal👋, Eu sou a Leidiane</h1>
+<h1 align="center">Bem vindo(a), Eu sou a Leidiane</h1>
 
 
 ![](https://komarev.com/ghpvc/?username=Leidiane117&color=006bed)
