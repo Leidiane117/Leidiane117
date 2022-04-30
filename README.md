@@ -11,23 +11,22 @@
 - 💼 &nbsp; Trabalhando como **Analista de Automação de Teste de Software Jr.** na <a href="https://www.primecontrol.com.br/">Prime Control</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Python e Teste de API**.
 
-<h3> :rocket: &nbsp;Hard Skills</h3>
+<h3> :rocket: &nbsp;Minhas Skills </h3>
   
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![DotNET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-  ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
   
 
 <br/>
   
   ### Experiências
 
-[<img align="left" height="100px" width="300px" alt="Warpnet" src="https://www.primecontrol.com.br/wp-content/uploads/2019/07/Logo-Prime-Control.png"/>](https://www.primecontrol.com.br/)
+[<img align="left" height="100px" width="300px" alt="Warpnet" src="https://www.primecontrol.com.br/wp-content/uploads/2022/03/Logo_Negativa-sem-tagline-1536x336.png"/>](https://www.primecontrol.com.br/)
 
 **Analista de Automação de Teste de Software Jr.** \
 [**Prime Control**](https://www.primecontrol.com.br/) • Período Atual \
