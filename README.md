@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e soluções para Teste de Software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="http://fateczonasul.edu.br/">FATEC</a>.
-- 💼 &nbsp; Trabalhando como **Analista de Automação de Teste de Software Jr.** na <a href="https://www.primecontrol.com.br/">Prime Control</a>
+- 💼 &nbsp; Trabalhando como **Analista de Automação de Teste de Software Jr.** na <a href="https://media-exp1.licdn.com/dms/image/C4E1BAQHTahlaWfEeDw/company-background_10000/0/1612017416359?e=2147483647&v=beta&t=9YWLG_xrspnTxCbWWbRAlge961FNp6BkJtEFSUnbRvg">Prime Control</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Python e Teste de API**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
