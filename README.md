@@ -9,7 +9,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e soluções para Teste de Software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="http://fateczonasul.edu.br/">FATEC</a>.
 - 💼 &nbsp; Trabalhando como **Analista de Automação de Teste de Software.** 
-- 🌱 &nbsp; Aprendendo mais sobre **Automação de teste de Mobile com Robot Framework, Python e Appium.**
+- 🌱 &nbsp; Aprendendo mais sobre **Automação de teste Mobile com Robot Framework, Python e Appium.**
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
   
