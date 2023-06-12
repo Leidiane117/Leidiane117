@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e soluções para Teste de Software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="http://fateczonasul.edu.br/">FATEC</a>.
-- 💼 &nbsp; Trabalhando como **Analista de Automação de Teste de Software.** 
+- 💼 &nbsp; Disponível para trabalhar como **Analista de Automação de Teste de Software.** 
 - 🌱 &nbsp; Aprendendo mais sobre **DevOps**
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
