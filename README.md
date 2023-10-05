@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e soluções para Teste de Software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="http://fateczonasul.edu.br/">FATEC</a>.
-- 💼 &nbsp; Trabalhando como **Engenheira de Qualidade de Software.** na <a href="https://www.mobly.com.br">MOBLY</a>. 
+- 💼 &nbsp; Trabalhando como **Engenheira de Qualidade de Software.** na <a href="https://www.mobly.com.br/">MOBLY</a>. 
 - 🌱 &nbsp; Aprendendo mais sobre **Testes de API**
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
